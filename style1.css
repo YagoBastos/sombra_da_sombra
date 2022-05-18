@@ -1,0 +1,73 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #EAF2CE;
+    color: #53A62D;
+    font-family: "Caveat";
+}
+main{
+    width: 100vw;
+    text-align: center;
+    margin-top: 30vh;
+}
+p{
+    letter-spacing: 16px;
+}
+#s1{
+    text-shadow: 10px 10px 2px #B6D96A,15px 15px 5px #707365;
+    font-size: 4em;
+}
+#s1:hover{
+    text-shadow: 10px 10px 2px #B6D96A,15px 15px 5px #707365;
+    font-size: 5em;
+    transition: 2s;
+}
+#o1{
+    text-shadow: 10px 10px 2px #9CD918,15px 15px 5px #454839;
+    font-size: 3em;
+}
+#o1:hover{
+    text-shadow: 10px 10px 2px #9CD918,15px 15px 5px #454839;
+    font-size: 4em;
+    transition: 2s;
+}
+#m1{
+    text-shadow: 10px 10px 2px #B6D96A,15px 15px 5px #707365;
+    font-size: 4em;
+}
+#m1:hover{
+    text-shadow: 10px 10px 2px #B6D96A,15px 15px 5px #707365;
+    font-size: 5em;
+    transition: 2s;
+}
+#b1{
+    text-shadow: 10px 10px 2px #9CD918,15px 15px 5px #454839;
+    font-size: 3em;
+}
+#b1:hover{
+    text-shadow: 10px 10px 2px #9CD918,15px 15px 5px #454839;
+    font-size: 4em;
+    transition: 2s;
+}
+#r1{
+    text-shadow: 10px 10px 2px #B6D96A,15px 15px 5px #707365;
+    font-size: 4em;
+}
+#r1:hover{
+    text-shadow: 10px 10px 2px #B6D96A,15px 15px 5px #707365;
+    font-size: 5em;
+    transition: 2s;
+}
+#a1{
+    text-shadow: 10px 10px 2px #9CD918,15px 15px 5px #454839;
+    font-size: 3em;
+}
+#a1:hover{
+    text-shadow: 10px 10px 2px #9CD918,15px 15px 5px #454839;
+    font-size:4em;
+    transition: 2s;
+}
